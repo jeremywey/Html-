@@ -1,0 +1,52 @@
+.title-1{
+    color: rgb(31, 110, 228);
+    text-align: center;
+    margin: 10px 0;
+ }
+ body{
+    background: whitesmoke;
+}
+ .h4{
+    font-weight: bold;
+    font-size: large;
+    padding: auto;
+ }
+ .title-2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 10px 0;
+ }
+.container{
+    margin: 0 auto;
+    background: white;
+    padding: 0 4% 0% 4%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+}
+input{
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid rgb(235, 230, 230);
+    border-radius: 5px;
+}
+.btn{
+    margin: 10px 0;
+    padding: 10px 20px;
+    width: 106%;
+    background: rgb(31, 137, 207);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  footer{
+    font-size: 12px;
+    color:rgb(66, 64, 64)
+   
+}
+  
